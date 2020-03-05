@@ -42,7 +42,6 @@
  */
 #include <BFS.h>
 
-
 /*
  * @brief This is the eleventh method of the class. It is used to add the nodes which are
  *        opened using the above method.
